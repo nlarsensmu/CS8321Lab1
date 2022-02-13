@@ -1,0 +1,6 @@
+conda install matplotlib
+conda install pandas numpy tensorflow-gpu scikit-learn
+conda install scikit-image
+conda install scikit-learn-intelex
+conda install ipywidgets
+conda install keras
